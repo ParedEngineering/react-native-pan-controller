@@ -3,4 +3,5 @@ module.exports = {
   PageScroller: require('./lib/PageScroller'),
   CoverFlow: require('./lib/CoverFlow'),
   ScrollView: require('./lib/ScrollView'),
+  CustomPanController: require('./lib/CustomPanController')
 };
